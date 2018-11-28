@@ -5,19 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9638dc96-ce34-42b4-9253-952b865ec6d8" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Final Game/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Final Game/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Final Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Final Game/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Furniture_ges1/scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Furniture_ges1/scene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MovementController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MovementController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/CurrentMaximizeLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentMaximizeLayout.dwlt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ProtocolInstance.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ProtocolInstance.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/43/43acaa41c9c8943b0b9c5501529c155f" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/43/43acaa41c9c8943b0b9c5501529c155f" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/fe/fee3ac57689f04a47ad7665c9b5a728e" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/fe/fee3ac57689f04a47ad7665c9b5a728e" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,17 +26,17 @@
       <file leaf-file-name="PlayController.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
+            <state relative-caret-position="277">
               <caret line="21" column="73" selection-start-line="21" selection-start-column="73" selection-end-line="21" selection-end-column="73" />
               <folding>
-                <marker date="1543363404656" expanded="false" signature="6:78" ph="..." />
-                <marker date="1543363404656" expanded="true" signature="123:1494" ph="{...}" />
-                <marker date="1543363404656" expanded="true" signature="305:350" ph="{...}" />
-                <marker date="1543363404656" expanded="true" signature="405:1057" ph="{...}" />
-                <marker date="1543363404656" expanded="true" signature="476:525" ph="{...}" />
-                <marker date="1543363404656" expanded="true" signature="528:1054" ph="/* (Input.GetKeyDown(KeyCode.Space)) ... */" />
-                <marker date="1543363404656" expanded="true" signature="1094:1492" ph="{...}" />
-                <marker date="1543363404656" expanded="true" signature="1098:1489" ph="/* float force = 200; ... */" />
+                <marker date="1543367346292" expanded="false" signature="6:78" ph="..." />
+                <marker date="1543367346292" expanded="true" signature="123:1494" ph="{...}" />
+                <marker date="1543367346292" expanded="true" signature="305:350" ph="{...}" />
+                <marker date="1543367346292" expanded="true" signature="405:1057" ph="{...}" />
+                <marker date="1543367346292" expanded="true" signature="476:525" ph="{...}" />
+                <marker date="1543367346292" expanded="true" signature="528:1054" ph="/* (Input.GetKeyDown(KeyCode.Space)) ... */" />
+                <marker date="1543367346292" expanded="true" signature="1094:1492" ph="{...}" />
+                <marker date="1543367346292" expanded="true" signature="1098:1489" ph="/* float force = 200; ... */" />
               </folding>
             </state>
           </provider>
@@ -169,12 +164,12 @@
       <option name="presentableId" value="Default" />
       <updated>1542762465428</updated>
       <workItem from="1542762472391" duration="7389000" />
-      <workItem from="1543361473340" duration="2022000" />
+      <workItem from="1543361473340" duration="2935000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9411000" />
+    <option name="totallyTimeSpent" value="10324000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -227,14 +222,14 @@
         <state relative-caret-position="360">
           <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
           <folding>
-            <marker date="1543363404656" expanded="false" signature="6:78" ph="..." />
-            <marker date="1543363404656" expanded="true" signature="123:1494" ph="{...}" />
-            <marker date="1543363404656" expanded="true" signature="305:350" ph="{...}" />
-            <marker date="1543363404656" expanded="true" signature="405:1057" ph="{...}" />
-            <marker date="1543363404656" expanded="true" signature="476:525" ph="{...}" />
-            <marker date="1543363404656" expanded="true" signature="528:1054" ph="/* (Input.GetKeyDown(KeyCode.Space)) ... */" />
-            <marker date="1543363404656" expanded="true" signature="1094:1492" ph="{...}" />
-            <marker date="1543363404656" expanded="true" signature="1098:1489" ph="/* float force = 200; ... */" />
+            <marker date="1543367346292" expanded="false" signature="6:78" ph="..." />
+            <marker date="1543367346292" expanded="true" signature="123:1494" ph="{...}" />
+            <marker date="1543367346292" expanded="true" signature="305:350" ph="{...}" />
+            <marker date="1543367346292" expanded="true" signature="405:1057" ph="{...}" />
+            <marker date="1543367346292" expanded="true" signature="476:525" ph="{...}" />
+            <marker date="1543367346292" expanded="true" signature="528:1054" ph="/* (Input.GetKeyDown(KeyCode.Space)) ... */" />
+            <marker date="1543367346292" expanded="true" signature="1094:1492" ph="{...}" />
+            <marker date="1543367346292" expanded="true" signature="1098:1489" ph="/* float force = 200; ... */" />
           </folding>
         </state>
       </provider>
@@ -285,17 +280,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
+        <state relative-caret-position="277">
           <caret line="21" column="73" selection-start-line="21" selection-start-column="73" selection-end-line="21" selection-end-column="73" />
           <folding>
-            <marker date="1543363404656" expanded="false" signature="6:78" ph="..." />
-            <marker date="1543363404656" expanded="true" signature="123:1494" ph="{...}" />
-            <marker date="1543363404656" expanded="true" signature="305:350" ph="{...}" />
-            <marker date="1543363404656" expanded="true" signature="405:1057" ph="{...}" />
-            <marker date="1543363404656" expanded="true" signature="476:525" ph="{...}" />
-            <marker date="1543363404656" expanded="true" signature="528:1054" ph="/* (Input.GetKeyDown(KeyCode.Space)) ... */" />
-            <marker date="1543363404656" expanded="true" signature="1094:1492" ph="{...}" />
-            <marker date="1543363404656" expanded="true" signature="1098:1489" ph="/* float force = 200; ... */" />
+            <marker date="1543367346292" expanded="false" signature="6:78" ph="..." />
+            <marker date="1543367346292" expanded="true" signature="123:1494" ph="{...}" />
+            <marker date="1543367346292" expanded="true" signature="305:350" ph="{...}" />
+            <marker date="1543367346292" expanded="true" signature="405:1057" ph="{...}" />
+            <marker date="1543367346292" expanded="true" signature="476:525" ph="{...}" />
+            <marker date="1543367346292" expanded="true" signature="528:1054" ph="/* (Input.GetKeyDown(KeyCode.Space)) ... */" />
+            <marker date="1543367346292" expanded="true" signature="1094:1492" ph="{...}" />
+            <marker date="1543367346292" expanded="true" signature="1098:1489" ph="/* float force = 200; ... */" />
           </folding>
         </state>
       </provider>
