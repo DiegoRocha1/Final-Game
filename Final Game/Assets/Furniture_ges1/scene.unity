@@ -183,6 +183,7 @@ GameObject:
   - component: {fileID: 231095704}
   - component: {fileID: 231095705}
   - component: {fileID: 231095706}
+  - component: {fileID: 231095707}
   m_Layer: 0
   m_Name: Camera
   m_TagString: Untagged
@@ -293,7 +294,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isGrounded: 0
   vertSpeed: 20
-  horzSpeed: 200
+  horzSpeed: 20
 --- !u!65 &231095705
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -321,6 +322,19 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 112
   m_CollisionDetection: 0
+--- !u!114 &231095707
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 231095697}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72e53d37b1b5042348b95733019734de, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mouseSensitivity: 100
+  clampAngle: 80
 --- !u!1001 &314358727
 Prefab:
   m_ObjectHideFlags: 0

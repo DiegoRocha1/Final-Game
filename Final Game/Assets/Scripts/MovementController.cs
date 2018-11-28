@@ -21,7 +21,7 @@ public class MovementController : MonoBehaviour
 		var x = Input.GetAxis("Horizontal") * Time.deltaTime * horzSpeed;
 		var z = Input.GetAxis("Vertical") * Time.deltaTime * vertSpeed;
 
-		transform.Rotate(0, x, 0);
+		transform.Translate(x, 0, 0);
 		transform.Translate(0, 0, z);
 		
 		//if (Input.GetKeyDown ("space")){
