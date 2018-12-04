@@ -4,21 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/Assets/Scripts/PlayController.cs" line="28" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9638dc96-ce34-42b4-9253-952b865ec6d8" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Final Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Final Game/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/scene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/BalloonHandContact.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/BalloonHandContact.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/CurrentMaximizeLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentMaximizeLayout.dwlt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ProtocolInstance.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ProtocolInstance.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/63/634c41117f48a1940933d58845b6f252" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/63/634c41117f48a1940933d58845b6f252" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/63/634c41117f48a1940933d58845b6f252.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/63/634c41117f48a1940933d58845b6f252.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/84/8460e12f166d64d0a90255e35cda3519" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/84/8460e12f166d64d0a90255e35cda3519" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler0.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" afterDir="false" />
-    </list>
+    <list default="true" id="9638dc96-ce34-42b4-9253-952b865ec6d8" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -234,12 +220,12 @@
       <updated>1542762465428</updated>
       <workItem from="1542762472391" duration="7389000" />
       <workItem from="1543361473340" duration="2935000" />
-      <workItem from="1543897655852" duration="11856000" />
+      <workItem from="1543897655852" duration="11976000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22180000" />
+    <option name="totallyTimeSpent" value="22300000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
