@@ -15,6 +15,7 @@ public class Count : MonoBehaviour
 	// Use this for initialization
 	void Start ()
 	{
+        pointVal = 1;
 		points = GetComponent<TextMeshProUGUI>();
 	}
 	

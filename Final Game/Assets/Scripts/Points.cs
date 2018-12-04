@@ -15,6 +15,7 @@ public class Points : MonoBehaviour
 	// Use this for initialization
 	void Start ()
 	{
+        pointVal = 0;
 		points = GetComponent<TextMeshProUGUI>();
 	}
 	

@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayController : MonoBehaviour
 {
@@ -25,6 +26,10 @@ public class PlayController : MonoBehaviour
 			
 			anim.Play();
 		}
+        if (Input.GetKeyDown(KeyCode.M))
+        {
+            SceneManager.LoadScene("Start Menu");
+        }
 		//(Input.GetKeyDown(KeyCode.Space))
 //		{
 //			//while (hand.transform.rotation.x < 50)
