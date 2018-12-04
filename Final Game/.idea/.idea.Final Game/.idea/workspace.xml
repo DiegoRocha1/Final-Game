@@ -4,20 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/Assets/Scripts/PlayController.cs" line="28" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9638dc96-ce34-42b4-9253-952b865ec6d8" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Final Game/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Final Game/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Final Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Final Game/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Furniture_ges1/scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Furniture_ges1/scene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PSD Logo Templates/Fonts/Baloo/Baloo-Regular SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PSD Logo Templates/Fonts/Baloo/Baloo-Regular SDF.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Start Menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Start Menu.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/CurrentMaximizeLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentMaximizeLayout.dwlt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ProtocolInstance.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ProtocolInstance.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler0.log" afterDir="false" />
-    </list>
+    <list default="true" id="9638dc96-ce34-42b4-9253-952b865ec6d8" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -189,12 +176,12 @@
       <updated>1542762465428</updated>
       <workItem from="1542762472391" duration="7389000" />
       <workItem from="1543361473340" duration="2935000" />
-      <workItem from="1543897655852" duration="3105000" />
+      <workItem from="1543897655852" duration="3355000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13429000" />
+    <option name="totallyTimeSpent" value="13679000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
