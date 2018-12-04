@@ -6,18 +6,16 @@
   <component name="ChangeListManager">
     <list default="true" id="9638dc96-ce34-42b4-9253-952b865ec6d8" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Final Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Final Game/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Furniture_ges1/scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Furniture_ges1/scene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/scene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/BalloonHandContact.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/BalloonHandContact.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Count.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Count.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Points.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Points.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/CurrentMaximizeLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentMaximizeLayout.dwlt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ProtocolInstance.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ProtocolInstance.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/63/634c41117f48a1940933d58845b6f252" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/63/634c41117f48a1940933d58845b6f252" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/63/634c41117f48a1940933d58845b6f252.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/63/634c41117f48a1940933d58845b6f252.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/metadata/84/8460e12f166d64d0a90255e35cda3519" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/84/8460e12f166d64d0a90255e35cda3519" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/ac/acef828fc6cbc4fff9d74ca60c2ab31c" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/ac/acef828fc6cbc4fff9d74ca60c2ab31c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/ca/cadfab4d8d2c74a58a8cb4ba03ae7eab" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/ca/cadfab4d8d2c74a58a8cb4ba03ae7eab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler0.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" afterDir="false" />
     </list>
@@ -52,20 +50,20 @@
       <file leaf-file-name="BalloonHandContact.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/BalloonHandContact.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="34" column="89" selection-start-line="34" selection-start-column="89" selection-end-line="34" selection-end-column="89" />
+            <state relative-caret-position="395">
+              <caret line="48" column="56" selection-start-line="48" selection-start-column="56" selection-end-line="48" selection-end-column="56" />
               <folding>
-                <marker date="1543919653497" expanded="true" signature="6:127" ph="..." />
-                <marker date="1543919653497" expanded="true" signature="177:1883" ph="{...}" />
-                <marker date="1543919653497" expanded="true" signature="442:480" ph="{...}" />
-                <marker date="1543919653497" expanded="true" signature="534:1771" ph="{...}" />
-                <marker date="1543919653497" expanded="true" signature="565:609" ph="{...}" />
-                <marker date="1543919653497" expanded="true" signature="701:830" ph="{...}" />
-                <marker date="1543919653497" expanded="true" signature="779:826" ph="{...}" />
-                <marker date="1543919653497" expanded="true" signature="832:1191" ph="/* if (dupCheck) ... */" />
-                <marker date="1543919653497" expanded="true" signature="1356:1768" ph="{...}" />
-                <marker date="1543919653497" expanded="true" signature="1483:1764" ph="{...}" />
-                <marker date="1543919653497" expanded="true" signature="1772:1881" ph="/* private void OnCollisionEnter(Collision other) ... */" />
+                <marker date="1543922464783" expanded="true" signature="6:127" ph="..." />
+                <marker date="1543922464783" expanded="true" signature="179:2049" ph="{...}" />
+                <marker date="1543922464783" expanded="true" signature="459:548" ph="{...}" />
+                <marker date="1543922464783" expanded="true" signature="602:1937" ph="{...}" />
+                <marker date="1543922464783" expanded="true" signature="633:721" ph="{...}" />
+                <marker date="1543922464783" expanded="true" signature="813:1002" ph="{...}" />
+                <marker date="1543922464783" expanded="true" signature="906:998" ph="{...}" />
+                <marker date="1543922464783" expanded="true" signature="1004:1363" ph="/* if (dupCheck) ... */" />
+                <marker date="1543922464783" expanded="true" signature="1528:1934" ph="{...}" />
+                <marker date="1543922464783" expanded="true" signature="1670:1930" ph="{...}" />
+                <marker date="1543922464783" expanded="true" signature="1938:2047" ph="/* private void OnCollisionEnter(Collision other) ... */" />
               </folding>
             </state>
           </provider>
@@ -134,6 +132,11 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>balloonco</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -231,12 +234,12 @@
       <updated>1542762465428</updated>
       <workItem from="1542762472391" duration="7389000" />
       <workItem from="1543361473340" duration="2935000" />
-      <workItem from="1543897655852" duration="9772000" />
+      <workItem from="1543897655852" duration="11856000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20096000" />
+    <option name="totallyTimeSpent" value="22180000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -441,20 +444,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/BalloonHandContact.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="34" column="89" selection-start-line="34" selection-start-column="89" selection-end-line="34" selection-end-column="89" />
+        <state relative-caret-position="395">
+          <caret line="48" column="56" selection-start-line="48" selection-start-column="56" selection-end-line="48" selection-end-column="56" />
           <folding>
-            <marker date="1543919653497" expanded="true" signature="6:127" ph="..." />
-            <marker date="1543919653497" expanded="true" signature="177:1883" ph="{...}" />
-            <marker date="1543919653497" expanded="true" signature="442:480" ph="{...}" />
-            <marker date="1543919653497" expanded="true" signature="534:1771" ph="{...}" />
-            <marker date="1543919653497" expanded="true" signature="565:609" ph="{...}" />
-            <marker date="1543919653497" expanded="true" signature="701:830" ph="{...}" />
-            <marker date="1543919653497" expanded="true" signature="779:826" ph="{...}" />
-            <marker date="1543919653497" expanded="true" signature="832:1191" ph="/* if (dupCheck) ... */" />
-            <marker date="1543919653497" expanded="true" signature="1356:1768" ph="{...}" />
-            <marker date="1543919653497" expanded="true" signature="1483:1764" ph="{...}" />
-            <marker date="1543919653497" expanded="true" signature="1772:1881" ph="/* private void OnCollisionEnter(Collision other) ... */" />
+            <marker date="1543922464783" expanded="true" signature="6:127" ph="..." />
+            <marker date="1543922464783" expanded="true" signature="179:2049" ph="{...}" />
+            <marker date="1543922464783" expanded="true" signature="459:548" ph="{...}" />
+            <marker date="1543922464783" expanded="true" signature="602:1937" ph="{...}" />
+            <marker date="1543922464783" expanded="true" signature="633:721" ph="{...}" />
+            <marker date="1543922464783" expanded="true" signature="813:1002" ph="{...}" />
+            <marker date="1543922464783" expanded="true" signature="906:998" ph="{...}" />
+            <marker date="1543922464783" expanded="true" signature="1004:1363" ph="/* if (dupCheck) ... */" />
+            <marker date="1543922464783" expanded="true" signature="1528:1934" ph="{...}" />
+            <marker date="1543922464783" expanded="true" signature="1670:1930" ph="{...}" />
+            <marker date="1543922464783" expanded="true" signature="1938:2047" ph="/* private void OnCollisionEnter(Collision other) ... */" />
           </folding>
         </state>
       </provider>

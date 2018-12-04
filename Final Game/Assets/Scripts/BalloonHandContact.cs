@@ -5,6 +5,8 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
+
+
 public class BalloonHandContact : MonoBehaviour {
 
 	public float thrust;
@@ -12,14 +14,17 @@ public class BalloonHandContact : MonoBehaviour {
 	public GameObject hand;
 	public GameObject balloon;
 
-	public Text balloonCount;
 	public GameObject duplic;
 	public GameObject floor;
-	private Boolean dupCheck = false;
+	
+	public AudioSource hit;
+	public AudioSource pop;
+	public AudioSource end;
 	
 	// Use this for initialization
 	void Start () {
 		rb = GetComponent<Rigidbody>();
+		AudioSource audio = GetComponent<AudioSource>();
 	}
 	
 	// Update is called once per frame
@@ -28,17 +33,20 @@ public class BalloonHandContact : MonoBehaviour {
 	{	
 		if (Count.pointVal == 0)
 		{
+			// the retry scene and play ending sound
 			Count.points.text = "GAME OVER";
 		}
 		
 			
 		if (Mathf.Abs(floor.transform.position[1] - balloon.transform.position[1]) <= 1.5)
 		{
+			pop.Play();
 			Destroy(balloon);
 			Count.pointVal -= 1;
 
 			if (Count.pointVal == 0)
 			{
+				// the retry scene and play ending sound
 				Count.points.text = "GAME OVER";
 			}
 		}
@@ -66,13 +74,13 @@ public class BalloonHandContact : MonoBehaviour {
 		if (Mathf.Abs(hand.transform.position[1] - balloon.transform.position[1]) <= 2.5 && 
 		    (Input.GetKeyDown(KeyCode.Space) || Input.GetMouseButtonDown(0)))
 		{
+			hit.Play();
 			rb.AddForce(0, thrust, 0, ForceMode.Impulse);
 			Points.pointVal += 1;
 			Points.count += 1;
 
 			if (Points.count == 5)
 			{
-				dupCheck = true;
 				Instantiate(duplic, new Vector3(balloon.transform.position[0], balloon.transform.position[1], balloon.transform.position[2] ), Quaternion.identity);
 				rb.AddForce(0, thrust, 0, ForceMode.Impulse);
 				Points.count = 0;
