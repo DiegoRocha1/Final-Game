@@ -57,6 +57,7 @@
   <ItemGroup>
     <Compile Include="Assets\playerControls.cs" />
     <Compile Include="Assets\PSD Logo Templates\Sample\IconPreview.cs" />
+    <Compile Include="Assets\Scripts\BalloonHandContact.cs" />
     <Compile Include="Assets\Scripts\MouseController.cs" />
     <Compile Include="Assets\Scripts\MovementController.cs" />
     <Compile Include="Assets\Scripts\PlayController.cs" />

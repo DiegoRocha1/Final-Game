@@ -25,6 +25,7 @@
           </e>
         </e>
         <e p="Scripts" t="Include">
+          <e p="BalloonHandContact.cs" t="Include" />
           <e p="MouseController.cs" t="Include" />
           <e p="MovementController.cs" t="Include" />
           <e p="PlayController.cs" t="Include" />
