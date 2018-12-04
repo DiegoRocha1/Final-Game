@@ -8,8 +8,9 @@ public class Points : MonoBehaviour
 {
 
 	public static int pointVal = 0;
+	public static int count;
 
-	private TextMeshProUGUI points; 
+	private TextMeshProUGUI points;
 	
 	// Use this for initialization
 	void Start ()
