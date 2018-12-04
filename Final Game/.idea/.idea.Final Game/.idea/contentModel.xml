@@ -26,9 +26,11 @@
         </e>
         <e p="Scripts" t="Include">
           <e p="BalloonHandContact.cs" t="Include" />
+          <e p="Count.cs" t="Include" />
           <e p="MouseController.cs" t="Include" />
           <e p="MovementController.cs" t="Include" />
           <e p="PlayController.cs" t="Include" />
+          <e p="Points.cs" t="Include" />
         </e>
         <e p="TextMesh Pro" t="Include">
           <e p="Resources" t="Include">

@@ -1,6 +1,8 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class BalloonHandContact : MonoBehaviour {
 
@@ -8,6 +10,8 @@ public class BalloonHandContact : MonoBehaviour {
 	public Rigidbody rb;
 	public GameObject hand;
 	public GameObject balloon;
+
+	public Text balloonCount;
 	
 	// Use this for initialization
 	void Start () {
@@ -25,6 +29,7 @@ public class BalloonHandContact : MonoBehaviour {
 		    (Input.GetKeyDown(KeyCode.Space) || Input.GetMouseButtonDown(0)))
 		{
 			rb.AddForce(0, thrust, 0, ForceMode.Impulse);
+			Points.pointVal += 1;
 		}
 
 	}
