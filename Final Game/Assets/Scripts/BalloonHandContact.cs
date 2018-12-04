@@ -12,6 +12,7 @@ public class BalloonHandContact : MonoBehaviour {
 	public GameObject balloon;
 
 	public Text balloonCount;
+	public GameObject duplic;
 	
 	// Use this for initialization
 	void Start () {
@@ -30,6 +31,12 @@ public class BalloonHandContact : MonoBehaviour {
 		{
 			rb.AddForce(0, thrust, 0, ForceMode.Impulse);
 			Points.pointVal += 1;
+
+			if (Points.pointVal == 3)
+			{
+				Instantiate(duplic, new Vector3(balloon.transform.position[0], balloon.transform.position[1], balloon.transform.position[2] ), Quaternion.identity);
+				rb.AddForce(0, thrust, 0, ForceMode.Impulse);
+			}
 		}
 
 	}
